@@ -1,3 +1,3 @@
 # This is my Local Repo
-Author - Sandrose Maharjan
+Author - Sandrose Maharjan \n
 Age - 16
